@@ -1,5 +1,8 @@
 # Página Personal — Juan Macías
 
+<img width="466" height="201" alt="image" src="https://github.com/user-attachments/assets/7e718719-468a-4444-9c90-425b2eb6bf70" />
+
+
 ¡Bienvenido a mi página personal! amarillo
 
 Este espacio está dedicado a compartir mis proyectos, aprendizajes y reflexiones sobre programación, inteligencia artificial, ciencia de datos y otros temas que me apasionan.  
