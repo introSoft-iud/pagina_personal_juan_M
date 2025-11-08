@@ -20,3 +20,22 @@ Aquí encontrarás ejemplos de código, entradas de blog, y recursos educativos 
 💬 Si deseas contactarme o colaborar, puedes hacerlo a través de mis redes o mediante GitHub.
 sito desplegado en https://introsoft-iud.github.io/pagina_personal_juan_M/
 ---
+
+## Mi diario de aprendizage
+
+ldsal;koasopaadsa
+
+
+asda;d,a;',das
+
+
+ads\a
+/as
+\]d/a
+
+
+```python
+x = 42
+mensaje = f"El valor de x es {x}"
+print(mensaje)
+```
