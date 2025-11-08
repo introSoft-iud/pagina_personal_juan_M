@@ -1,5 +1,7 @@
 # Página Personal — Juan Macías
 
+md signific markdown
+
 ¡Bienvenido a mi página personal! amarillo
 
 Este espacio está dedicado a compartir mis proyectos, aprendizajes y reflexiones sobre programación, inteligencia artificial, ciencia de datos y otros temas que me apasionan.  
@@ -8,7 +10,7 @@ Aquí encontrarás ejemplos de código, entradas de blog, y recursos educativos 
 
 ---
 
-📚 **Temas principales**
+📚 *Temas principales*
 - Python y desarrollo de software  
 - Inteligencia Artificial y Machine Learning  
 - Ciencia de datos y visualización  
