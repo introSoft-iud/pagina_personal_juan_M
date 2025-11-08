@@ -18,5 +18,5 @@ Aquí encontrarás ejemplos de código, entradas de blog, y recursos educativos 
 - Educación y herramientas abiertas  
 
 💬 Si deseas contactarme o colaborar, puedes hacerlo a través de mis redes o mediante GitHub.
-
+sito desplegado en https://introsoft-iud.github.io/pagina_personal_juan_M/
 ---
