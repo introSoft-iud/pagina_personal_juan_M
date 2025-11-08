@@ -1,4 +1,4 @@
-# Página Personal — Juan Macías
+# Página Personal — Estuadiantes de la IUdigital
 
 ¡Bienvenido a mi página personal! amarillo
 
