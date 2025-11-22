@@ -34,5 +34,5 @@ print(mensaje)
 
 ## Últimas Entradas
 
-* [Implementando la libreia turtle desde cero](./tareas/clase5.ipynb)
+* [Implementando la libreia turtle desde cero](./tareas/tarea.md)
 
