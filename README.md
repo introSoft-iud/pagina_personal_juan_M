@@ -23,15 +23,6 @@ sito desplegado en https://introsoft-iud.github.io/pagina_personal_juan_M/
 
 ## Mi diario de aprendizage
 
-ldsal;koasopaadsa
-
-
-asda;d,a;',das
-
-
-ads\a
-/as
-\]d/a
 
 
 ```python
@@ -39,3 +30,9 @@ x = 42
 mensaje = f"El valor de x es {x}"
 print(mensaje)
 ```
+
+
+## Últimas Entradas
+
+* [Implementando la libreia turtle desde cero](./tareas/clase5.ipynb)
+
