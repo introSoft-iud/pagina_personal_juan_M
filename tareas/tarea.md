@@ -21,4 +21,6 @@ def sum_all(xs):
         total = total + x
     return total
 ```
+<img width="307" height="328" alt="image" src="https://github.com/user-attachments/assets/eef4dcfa-821d-4774-afd7-6ab5ebb8e083" />
+
 
