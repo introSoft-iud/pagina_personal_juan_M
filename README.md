@@ -129,17 +129,16 @@ Este programa pide al usuario que ingrese cuántos pasos debe avanzar una tortug
 
 ## Reto 2: Tortuga bajando
 
-```python
-import turtle
+# iNTERFASE DE USUARIO
 
-t = turtle.Turtle()  # Crea la tortuga
-pasos = int(input("¿Cuántos pasos baja la tortuga? "))
-t.right(90)  # Gira para apuntar hacia abajo
-t.forward(pasos)  # Baja la cantidad indicada
-turtle.done()  # Mantiene la ventana abierta
-```
+adelante(5)
+abajo(3)
 
-### Explicación breve:
+adelante(5)
+abajo(3)
+
+adelante(5)
+abajo(3)### Explicación breve:
 
 Este programa imprime una "v" por cada paso que la tortuga baja, representando el rastro vertical, y finalmente muestra la tortuga en la posición final.
 
