@@ -29,7 +29,7 @@ en esta entrega de mi blog vermos uhn totuga bajar escalas
 <img width="318" height="528" alt="image" src="https://github.com/user-attachments/assets/9449da1a-57a4-48fe-8000-e7a450aae87e" />
 
 este moviento se logra con las fuciones 
-```python
+
 # iNTERFASE DE USUARIO
 
 adelante(5)
@@ -42,9 +42,7 @@ adelante(5)
 abajo(3)
 ```
 
-La implementacion de estas funciones es 
 
-``` python
 
 # Tarea Kevin
 
@@ -77,6 +75,33 @@ En estas fuciones la variable `espacios` es una variable global que hace tales y
 
 FIN
 
+
+# Girar y dibujar usando solo `print()` e `input()`
+
+A continuación presentamos una versión limpia y organizada del material, con explicaciones claras y código formateado correctamente.
+
+---
+
+## Ejemplo 1: Girar y avanzar según datos del usuario
+
+Este programa pide dos distancias al usuario, avanza la primera en línea recta, gira 90° a la derecha y luego avanza la segunda, formando una figura en **L**.
+
+```python
+import turtle
+
+t = turtle.Turtle()  # Crea una tortuga
+
+# Pedir datos al usuario
+distancia1 = int(input("¿Cuántos pasos avanza la tortuga inicialmente? "))
+distancia2 = int(input("¿Cuántos pasos avanza la tortuga después de girar? "))
+
+# Movimientos
+t.forward(distancia1)   # Avanza la primera distancia
+t.right(90)             # Gira 90° a la derecha
+t.forward(distancia2)   # Avanza formando la L
+
+turtle.done()           # Mantiene la ventana abierta
+```
 
 
 
