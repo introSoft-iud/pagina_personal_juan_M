@@ -42,6 +42,40 @@ adelante(5)
 abajo(3)
 ```
 
+La implementacion de estas funciones es 
+
+``` python
+
+# Tarea Kevin
+
+
+tortuga = "🐢"
+espacios = 0 #string
+
+
+def adelante(pasos_adelante):
+    
+      # Esta faespacioscil de ver que le falta a este print()
+    global espacios
+    print (espacios * " " + "-" * pasos_adelante, end='')
+    #print("🐢")
+    print()
+    
+    espacios = espacios + pasos_adelante
+    #camino_abajo = espacios + "|\n"
+    
+
+
+def abajo(pasos_abajo):
+    #global espacios
+    for i in range (pasos_abajo):            
+            print(" " * espacios + "|\n", end='')
+    print(" " * espacios + "🐢")
+```
+
+En estas fuciones la variable `espacios` es una variable global que hace tales y pacuales
+
+FIN
 
 
 
