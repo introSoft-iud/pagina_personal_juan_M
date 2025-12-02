@@ -22,4 +22,30 @@ Aquí encontrarás ejemplos de código, entradas de blog, y recursos educativos 
 
 * [Implementando la libreia turtle desde cero](./tareas/clase5.ipynb)
 
+* *Interfase de usuario para la tortuga*
+
+en esta entrega de mi blog vermos uhn totuga bajar escalas
+
+<img width="318" height="528" alt="image" src="https://github.com/user-attachments/assets/9449da1a-57a4-48fe-8000-e7a450aae87e" />
+
+este moviento se logra con las fuciones 
+```python
+# iNTERFASE DE USUARIO
+
+adelante(5)
+abajo(3)
+
+adelante(5)
+abajo(3)
+
+adelante(5)
+abajo(3)
+```
+
+
+
+
+
+
+
 ---
