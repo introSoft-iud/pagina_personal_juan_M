@@ -36,3 +36,5 @@ print(mensaje)
 
 * [Implementando la libreia turtle desde cero](./tareas/tarea.md)
 
+* [Encapsulando la libreria tutle](./tareas/tarea3.md)
+
