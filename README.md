@@ -34,7 +34,7 @@ print(mensaje)
 
 ## Últimas Entradas
 
-* [Implementando la libreia turtle desde cero](./tareas/tarea.md)
+* [Implementando la libreia turtle desde cero](./tareas/tareaa.md)
 
 * [Encapsulando la libreria tutle](./tareas/tarea3.md)
 
